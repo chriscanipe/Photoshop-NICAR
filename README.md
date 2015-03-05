@@ -14,6 +14,9 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 
 1. Opan an image: File > Open...
 2. Open the Actions pallette: Window > Actions
+  ![An example:](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/NewAction.png "Sketch example") 
+
+
 3. From the dropdown, select New Action...
 4. Give it a name. Let's say "200px wide", and push "Record"
 5. Select Image > Image Size...
