@@ -36,6 +36,7 @@ Droplets make Actions even simpler to use by making them executuable with a simp
 
 ##Animated Gifs##
 Do you have an interactive graphic you'd like to promote on the front page? Animated Gifs are a great way to draw attention to interactive work.
+
 1. Start with a series of images or screenshots from your interactive.
 2. Open one of the images in Photoshop.
 3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.
