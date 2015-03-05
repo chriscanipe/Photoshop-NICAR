@@ -25,3 +25,12 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 11. Choose your source folder. This should be a folder containing multiple image files.
 12. Under "Destination", choose "Folder". Then, Select a destination folder or create. This is where your new images will be saved.
 13. Hit "Okay", sit back and relax. Your photos will be ready momentarily.
+
+
+##Droplets##
+Droplets make Actions even simpler to use by making them executuable with a simple Drag & Drop. 
+
+1. Select File > Automate > Create Droplet...
+2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save.
+3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your folder of unedited images on top of the droplet icon. That's it! You're done!
+
