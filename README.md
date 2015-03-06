@@ -8,6 +8,7 @@ In this session, we'll learn:
 4. How to use the **Perspective tool**
 5. How to clean up images using **Content-Aware fills**
 
+[Download files here:](https://drive.google.com/file/d/0ByZb_bUVlqwjdkgzSnRGRk40Sm8/view?usp=sharing)
 
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that saves an image as RGB at 200px wide and 72px/in resolution.
