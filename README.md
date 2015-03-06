@@ -6,7 +6,6 @@ In this session, we'll learn:
 2. How to create **Droplets** for Actions you use regularly
 3. How to make **Animated Gifs** using the Timeline
 4. How to use the **Perspective tool**
-5. How to clean up images using **Content-Aware fills**
 
 [Download files here](https://drive.google.com/file/d/0ByZb_bUVlqwjdkgzSnRGRk40Sm8/view?usp=sharing)
 
