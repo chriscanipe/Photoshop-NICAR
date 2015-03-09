@@ -12,9 +12,10 @@ In this session, we'll learn:
 ##Actions##
 Do you find yourself repeating many of the same tasks again and again? You're working too hard. Make an action! In this example, we'll set up an action that saves an image as RGB at 200px wide and 72px/in resolution.
 
-1. Opan an image: **File > Open...**
+1. Open an image: **File > Open...**
 2. Open the Actions pallette: **Window > Actions**
 3. From the dropdown, select **New Action...**
+  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png =250x)
 4. Give it a name. Let's say "200px wide", and push "Record"
 5. Select **Image > Image Size...**
 6. Set the resolution to 72px and the width to 200px.
