@@ -17,7 +17,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 3. From the dropdown, select **New Action...**
 4. Give it a name. Let's say "200px wide", and push "Record"
 5. Select **Image > Image Size...**
- ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png)
+    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png)
 6. Set the resolution to 72px and the width to 200px.
 7. At the bottom of the Actions window, hit "Stop" to stop recording.
 8. Close the image without saving your changes.
