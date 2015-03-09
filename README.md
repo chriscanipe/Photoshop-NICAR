@@ -15,7 +15,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 1. Open an image: **File > Open...**
 2. Open the Actions pallette: **Window > Actions**
 3. From the dropdown, select **New Action...**
-*    <img src="https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/NewAction.png" style="width: 100px !important"/>
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/NewAction.png)
 4. Give it a name. Let's say "200px wide", and push "Record"
 5. Select **Image > Image Size...**
 *    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png)
@@ -45,11 +45,14 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 1. Start with a series of images or screenshots from your interactive.
 2. Open one of the images in Photoshop.
 3. Drag and drop your other images onto the stage. This will bring them into your file as separate layers.
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/GifLayers.png)
 4. Select **Window > Timeline** from the toolbar. This will open a new panel in Photoshop.
 5. From the Timeline panel, select "Create Frame Animation" from the dropdown, then click the dropdown.
 6. This will pull one layer into the timeline window.
 7. From the dropdown in the upper right of the Timeline window, select "Make Frames from Layers"
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/FramesFromLayers.png)
 8. Make sure your frames are in the correct sequence, then set the duration for which you'd like each to display
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/SetFrameDurations.png)
 9. Select **File > Save for Web**
 10. Select Gif as your save format. At the bottom of the window, you'll also be able to set the number of times you'd like the animation to loop. For a homepage promo, it might not be appropriate to loop infinitely. Let's set it to loop 3 times. 
 11. Save and you're done. Woot!
