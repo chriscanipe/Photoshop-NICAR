@@ -15,7 +15,7 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 1. Open an image: **File > Open...**
 2. Open the Actions pallette: **Window > Actions**
 3. From the dropdown, select **New Action...**
-  ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png =250x)
+![Image size tool](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/Image%20Size.png "Image size")
 4. Give it a name. Let's say "200px wide", and push "Record"
 5. Select **Image > Image Size...**
 6. Set the resolution to 72px and the width to 200px.
