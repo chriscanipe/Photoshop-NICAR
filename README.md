@@ -34,8 +34,10 @@ Do you find yourself repeating many of the same tasks again and again? You're wo
 Droplets make Actions even simpler to use by making them executuable with a simple Drag and Drop. 
 
 1. Select **File > Automate > Create Droplet...**
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/CreateDroplet.png)
 2. The Droplet menu is much like the Batch menu. Select a location for the Droplet icon to appear, and a folder in which you'd like your files to save.
 3. Now, instead of going the all the trouble of selecting Batch from the Automate menu, just drag your folder of unedited images on top of the droplet icon. That's it! You're done!
+*    ![](https://github.com/chriscanipe/Photoshop-NICAR/blob/master/screengrabs/droplet.png)
 
 ##Animated Gifs##
 Do you have an interactive graphic you'd like to promote on the front page? Animated Gifs are a great way to draw attention to interactive work.
