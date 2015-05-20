@@ -56,7 +56,7 @@ Do you have an interactive graphic you'd like to promote on the front page? Anim
 9. Select **File > Save for Web**
 10. Select Gif as your save format. At the bottom of the window, you'll also be able to set the number of times you'd like the animation to loop. For a homepage promo, it might not be appropriate to loop infinitely. Let's set it to loop 3 times. 
 11. Save and you're done. Woot!
-
+([The source files here are from this WSJ interactive:](http://graphics.wsj.com/ukraine-rebel-maps/))
 
 ##Perspective Tool##
 We also covered the perspective tool through a tutorial I borrowed entirely from Proublica's Lena Groeger, so rather than try to replicate it,I'm jsut going to link to her tutorial here:
